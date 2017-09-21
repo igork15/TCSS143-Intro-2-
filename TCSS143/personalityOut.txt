@@ -1,0 +1,1 @@
+Betty Boop: [90, 15, 10, 10] = ISTJSnoopy: [30, 45, 30, 70] = ESTPBugs Bunny : [20, 45, 15, 55] = ESTPDaffy Duck: [100, 6, 20, 6] = ISTJThe frumious bandersnatch: [86, 95, 75, 78] = INFPMinnie Mouse: [67, 28, 32, 5] = ISTJLuke Skywalker: [89, 61, 26, 25] = INTJHan Solo: [80, 50, 45, 25] = IXTJPrincess Leia: [80, 50, 50, 5] = IXXJ
